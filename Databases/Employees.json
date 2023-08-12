@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "employee_id": 5574,
+      "name": "Davis",
+      "phone": "0545566769",
+      "email": "Davis@gmail.com",
+      "role": "manager"
+    },
+    {
+      "employee_id": 9909,
+      "name": "stav",
+      "phone": "0545773320",
+      "email": "stav@gmail.com",
+      "role": "manager"
+    },
+    {
+      "employee_id": 1151,
+      "name": "katya",
+      "phone": "0565443321",
+      "email": "katya@gmail.com",
+      "role": "waiter"
+    },
+    {
+      "employee_id": 9090,
+      "name": "chen",
+      "phone": "0545773320",
+      "email": "chen@gmail.com",
+      "role": "waiter"
+    },
+    {
+      "employee_id": 9008,
+      "name": "yohananel",
+      "phone": "0568978869",
+      "email": "yohananel@gmail.com",
+      "role": "hostess"
+    }
+  ]
+}

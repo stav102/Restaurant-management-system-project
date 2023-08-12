@@ -1,0 +1,150 @@
+{
+  "menu_items": [
+    {
+      "name": "Margherita Pizza",
+      "price": 45.0,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        },
+        {
+          "name": "basil",
+          "amount": 10.0,
+          "unit": "leaves"
+        }
+      ]
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 49.99,
+      "ingredients": []
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": 44.99,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        },
+        {
+          "name": "bell pepper",
+          "amount": 1.0,
+          "unit": "unit"
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit"
+        },
+        {
+          "name": "mushroom",
+          "amount": 5.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "price": 52.5,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        },
+        {
+          "name": "BBQ sauce",
+          "amount": 30.0,
+          "unit": "ml"
+        },
+        {
+          "name": "chicken",
+          "amount": 100.0,
+          "unit": "g"
+        },
+        {
+          "name": "red onion",
+          "amount": 0.5,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "price": 47.5,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        },
+        {
+          "name": "ham",
+          "amount": 100.0,
+          "unit": "g"
+        },
+        {
+          "name": "pineapple",
+          "amount": 50.0,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Tomato Pizza",
+      "price": 46.0,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 2.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "Olive Pizza",
+      "price": 55.0,
+      "ingredients": [
+        {
+          "name": "olive",
+          "amount": 4.0,
+          "unit": "unit"
+        },
+        {
+          "name": "cheese ",
+          "amount": 150.0,
+          "unit": "g"
+        }
+      ]
+    }
+  ]
+}

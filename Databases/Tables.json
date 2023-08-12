@@ -1,0 +1,32 @@
+{
+  "tables": [
+    {
+      "table_number": 1,
+      "status": "reserved"
+    },
+    {
+      "table_number": 2,
+      "status": "free for reservation"
+    },
+    {
+      "table_number": 3,
+      "status": "reserved"
+    },
+    {
+      "table_number": 4,
+      "status": "free for reservation"
+    },
+    {
+      "table_number": 5,
+      "status": "free for reservation"
+    },
+    {
+      "table_number": 6,
+      "status": "reserved"
+    },
+    {
+      "table_number": 7,
+      "status": "free for reservation"
+    }
+  ]
+}
